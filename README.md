@@ -25,3 +25,15 @@ When it comes to problem-solving in programming, it's essential to follow a stru
 8. **_Document the Solution_** : Add comments and documentation to your code, explaining the purpose of each function, logic, and any important considerations. Good documentation helps in understanding and maintaining the code in the future.
 
 9. **_Review and Learn_** : Reflect on the problem-solving process and the lessons learned. Review the code, analyze any challenges faced, and seek feedback from peers or mentors. This continuous learning process improves your problem-solving skills over time.
+
+## Contributing
+
+Contributions are welcome! If you have a new problem to add, improvements to existing solutions, or any other valuable contributions, please follow these steps:
+
+- Fork the repository.
+- Create a new branch for your contribution.
+- Make your changes and commit them.
+- Push your changes to your forked repository.
+- Submit a pull request to the main repository.
+
+Please ensure that your contributions adhere to the repository's coding standards and guidelines. Add appropriate comments and documentation to make the code understandable and maintainable.
