@@ -2,7 +2,7 @@
 
 Welcome 😄 to the Problem Solving Repository! This repository is dedicated to solving programming problems and enhancing your problem-solving skills. Here, you will find a collection of solved problems, organized by different levels of difficulty.
 
-In this repository, you will find a curated selection of programming problems covering various topics and difficulty levels. Each problem is accompanied by a detailed solution explanation and code implementation in a specific programming language(Now Just Javascript 😅😁).
+In this repository, you will find a curated selection of programming problems covering various topics and difficulty levels. Each problem is accompanied by a detailed solution explanation and code implementation in a specific programming language.
 
 ## The Approach That I Will Following In Problem Solving
 
